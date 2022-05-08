@@ -1,2 +1,21 @@
+section {
+    display: flex;
+    justify-content: space-evenly;
+margin: 10pt;
+padding-left: 10pt;
+    background-color: rgb(234, 232, 232);
+    height: 324px;
+    width: 835px;
+    border: .01px solid #ffffff;;
+  }
 
-body {background-color: blueviolet;}
+article{
+    height: 324px;
+    width: 270px;
+ margin: 20px;
+
+ 
+img{ 
+margin: 10pt;
+border: .01pt white
+}
